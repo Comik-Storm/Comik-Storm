@@ -27,6 +27,6 @@
 
 <p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=comik-storm&show_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api?username=comik-storm" alt="comik-storm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=comik-storm&show_icons=true&locale=en" alt="comik-storm" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=comik-storm" alt="comik-storm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=comik-storm&" alt="comik-storm" /></p>
