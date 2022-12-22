@@ -5,9 +5,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Comik-Storm&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on **Drone Swarm Application in Disaster Areas**
+- 🔭 I’m currently working with **Team Strandaid**
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://comikstorm.vercel.app/](https://comikstorm.vercel.app/)
 
