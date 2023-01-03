@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Techno/Techno/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/TechnoFynch/TechnoFynch/blob/output/snake.svg" alt="Snake animation" />
 
 ###
